@@ -34,7 +34,7 @@ In the file "variables.tf" you find everything that the variables modify.
 | [cluster_version](variables.tf) | EKS cluster version |  |
 | [instance_type_eks](variables.tf) | Instance type eks |  |
 | [amount_workers](variables.tf) | ASG desired capacity (min - max) |  |
-| Ecr | ECR module | YES |
+| Ecr | ECR module | Yes |
 | [repositorie_name1](variables.tf) | ECR repository name 1 | Yes |
 | [repositorie_name2](variables.tf) | ECR repository name 2 | Yes |
 | [repositorie_name3](variables.tf) | ECR repository name 3 | Yes |
